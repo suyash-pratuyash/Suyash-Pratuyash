@@ -10,11 +10,9 @@
 - JavaScript
 - HTML/CSS
 - Git & GitHub
-- SQL
 
 ## Projects
 🔹 Student Task Tracker
-🔹 Portfolio Website
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/suyash-pratuyash-633492375
