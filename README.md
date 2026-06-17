@@ -1,9 +1,9 @@
 # Hi, I'm Suyash 👋
 
-🎓 3rd Year Engineering Student
+🎓 2nd Year Engineering Student
 💻 Aspiring Full Stack Developer
-🚀 Learning Java, DSA, Web Development, Git & GitHub
-🌱 Currently exploring React, Node.js, and AI tools
+🚀 Learning Java Full-stack, DSA, AI integration
+🌱 Currently exploring Databases, Spring boot and Redis
 
 ## Skills
 - Java
