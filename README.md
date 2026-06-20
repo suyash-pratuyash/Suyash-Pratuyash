@@ -7,12 +7,14 @@
 
 ## Skills
 - Java
-- JavaScript
-- HTML/CSS
-- Git & GitHub
+- SQL
+- Spring Boot
+- SQL
+- HTML/ CSS/ JS
 
 ## Projects
 🔹 Student Task Tracker
+🔹 Smart Expense Tracker (in progress)
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/suyash-pratuyash-633492375
