@@ -13,7 +13,7 @@
 - HTML/ CSS/ JS
 
 ## Projects
-🔹 Student Task Tracker
+🔹 Url-Shortner
 🔹 Smart Expense Tracker (in progress)
 
 ## Connect With Me
