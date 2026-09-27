@@ -14,7 +14,7 @@
 
 ## Projects
 🔹 Url-Shortner
-🔹 Smart Expense Tracker (in progress)
+🔹 Library Management System
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/suyash-pratuyash-633492375
